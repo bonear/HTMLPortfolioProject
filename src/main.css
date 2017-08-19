@@ -1,0 +1,22 @@
+body,h1,h2,h3,p{
+  margin:0;
+  padding:0;
+}
+div.content{
+  font-family:fantasy,sans-serif;
+  font-size:125%;
+  margin:15px auto;
+  width:70%;
+  border: 4px solid #881166;
+}
+.header {
+  background-color:#ccddcc;
+  text-align: center;
+  border-bottom: 4px solid #881166;
+}
+div.tagline, div.skills, div.contact {
+  padding-left:5%;
+}
+ h3 {
+color:#881166;
+}
